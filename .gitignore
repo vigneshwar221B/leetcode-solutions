@@ -1,10 +1,14 @@
 # Ignore all
 *
+
 #unignore .gitignore
 !.gitignore
 
 # Unignore all with cpp extensions
 !*.cpp
+
+#unignore readme
+!readme.md
 
 # Unignore all dirs
 !*/
