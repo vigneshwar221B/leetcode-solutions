@@ -1,0 +1,13 @@
+# Ignore all
+*
+#unignore .gitignore
+!.gitignore
+
+# Unignore all with cpp extensions
+!*.cpp
+
+# Unignore all dirs
+!*/
+
+#ignore vscode config files
+.vscode
